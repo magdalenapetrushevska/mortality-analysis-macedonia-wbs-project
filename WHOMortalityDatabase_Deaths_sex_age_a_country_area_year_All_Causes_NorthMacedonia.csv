@@ -1,0 +1,928 @@
+Region Code,Region Name,Country Code,Country Name,Year,Sex,Age group code,Age Group,Causes,Number
+EU,Europe,MKD,North Macedonia,2021,All,Age00,[0],All,85
+EU,Europe,MKD,North Macedonia,2021,All,Age01_04,[1-4],All,14
+EU,Europe,MKD,North Macedonia,2021,All,Age05_09,[5-9],All,12
+EU,Europe,MKD,North Macedonia,2021,All,Age10_14,[10-14],All,12
+EU,Europe,MKD,North Macedonia,2021,All,Age15_19,[15-19],All,32
+EU,Europe,MKD,North Macedonia,2021,All,Age20_24,[20-24],All,60
+EU,Europe,MKD,North Macedonia,2021,All,Age25_29,[25-29],All,79
+EU,Europe,MKD,North Macedonia,2021,All,Age30_34,[30-34],All,125
+EU,Europe,MKD,North Macedonia,2021,All,Age35_39,[35-39],All,213
+EU,Europe,MKD,North Macedonia,2021,All,Age40_44,[40-44],All,306
+EU,Europe,MKD,North Macedonia,2021,All,Age45_49,[45-49],All,548
+EU,Europe,MKD,North Macedonia,2021,All,Age50_54,[50-54],All,917
+EU,Europe,MKD,North Macedonia,2021,All,Age55_59,[55-59],All,1543
+EU,Europe,MKD,North Macedonia,2021,All,Age60_64,[60-64],All,2428
+EU,Europe,MKD,North Macedonia,2021,All,Age65_69,[65-69],All,3521
+EU,Europe,MKD,North Macedonia,2021,All,Age70_74,[70-74],All,4263
+EU,Europe,MKD,North Macedonia,2021,All,Age75_79,[75-79],All,4340
+EU,Europe,MKD,North Macedonia,2021,All,Age80_84,[80-84],All,4841
+EU,Europe,MKD,North Macedonia,2021,All,Age85_over,[85+],All,5177
+EU,Europe,MKD,North Macedonia,2021,All,Age_unknown,[Unknown],All,0
+EU,Europe,MKD,North Macedonia,2021,Male,Age00,[0],All,52
+EU,Europe,MKD,North Macedonia,2021,Male,Age01_04,[1-4],All,7
+EU,Europe,MKD,North Macedonia,2021,Male,Age05_09,[5-9],All,7
+EU,Europe,MKD,North Macedonia,2021,Male,Age10_14,[10-14],All,7
+EU,Europe,MKD,North Macedonia,2021,Male,Age15_19,[15-19],All,18
+EU,Europe,MKD,North Macedonia,2021,Male,Age20_24,[20-24],All,43
+EU,Europe,MKD,North Macedonia,2021,Male,Age25_29,[25-29],All,48
+EU,Europe,MKD,North Macedonia,2021,Male,Age30_34,[30-34],All,81
+EU,Europe,MKD,North Macedonia,2021,Male,Age35_39,[35-39],All,139
+EU,Europe,MKD,North Macedonia,2021,Male,Age40_44,[40-44],All,189
+EU,Europe,MKD,North Macedonia,2021,Male,Age45_49,[45-49],All,329
+EU,Europe,MKD,North Macedonia,2021,Male,Age50_54,[50-54],All,593
+EU,Europe,MKD,North Macedonia,2021,Male,Age55_59,[55-59],All,964
+EU,Europe,MKD,North Macedonia,2021,Male,Age60_64,[60-64],All,1512
+EU,Europe,MKD,North Macedonia,2021,Male,Age65_69,[65-69],All,2114
+EU,Europe,MKD,North Macedonia,2021,Male,Age70_74,[70-74],All,2332
+EU,Europe,MKD,North Macedonia,2021,Male,Age75_79,[75-79],All,2259
+EU,Europe,MKD,North Macedonia,2021,Male,Age80_84,[80-84],All,2297
+EU,Europe,MKD,North Macedonia,2021,Male,Age85_over,[85+],All,2164
+EU,Europe,MKD,North Macedonia,2021,Male,Age_unknown,[Unknown],All,0
+EU,Europe,MKD,North Macedonia,2021,Female,Age00,[0],All,33
+EU,Europe,MKD,North Macedonia,2021,Female,Age01_04,[1-4],All,7
+EU,Europe,MKD,North Macedonia,2021,Female,Age05_09,[5-9],All,5
+EU,Europe,MKD,North Macedonia,2021,Female,Age10_14,[10-14],All,5
+EU,Europe,MKD,North Macedonia,2021,Female,Age15_19,[15-19],All,14
+EU,Europe,MKD,North Macedonia,2021,Female,Age20_24,[20-24],All,17
+EU,Europe,MKD,North Macedonia,2021,Female,Age25_29,[25-29],All,31
+EU,Europe,MKD,North Macedonia,2021,Female,Age30_34,[30-34],All,44
+EU,Europe,MKD,North Macedonia,2021,Female,Age35_39,[35-39],All,74
+EU,Europe,MKD,North Macedonia,2021,Female,Age40_44,[40-44],All,117
+EU,Europe,MKD,North Macedonia,2021,Female,Age45_49,[45-49],All,219
+EU,Europe,MKD,North Macedonia,2021,Female,Age50_54,[50-54],All,324
+EU,Europe,MKD,North Macedonia,2021,Female,Age55_59,[55-59],All,579
+EU,Europe,MKD,North Macedonia,2021,Female,Age60_64,[60-64],All,916
+EU,Europe,MKD,North Macedonia,2021,Female,Age65_69,[65-69],All,1407
+EU,Europe,MKD,North Macedonia,2021,Female,Age70_74,[70-74],All,1931
+EU,Europe,MKD,North Macedonia,2021,Female,Age75_79,[75-79],All,2081
+EU,Europe,MKD,North Macedonia,2021,Female,Age80_84,[80-84],All,2544
+EU,Europe,MKD,North Macedonia,2021,Female,Age85_over,[85+],All,3013
+EU,Europe,MKD,North Macedonia,2021,Female,Age_unknown,[Unknown],All,0
+EU,Europe,MKD,North Macedonia,2020,All,Age00,[0],All,108
+EU,Europe,MKD,North Macedonia,2020,All,Age01_04,[1-4],All,17
+EU,Europe,MKD,North Macedonia,2020,All,Age05_09,[5-9],All,18
+EU,Europe,MKD,North Macedonia,2020,All,Age10_14,[10-14],All,20
+EU,Europe,MKD,North Macedonia,2020,All,Age15_19,[15-19],All,38
+EU,Europe,MKD,North Macedonia,2020,All,Age20_24,[20-24],All,54
+EU,Europe,MKD,North Macedonia,2020,All,Age25_29,[25-29],All,49
+EU,Europe,MKD,North Macedonia,2020,All,Age30_34,[30-34],All,101
+EU,Europe,MKD,North Macedonia,2020,All,Age35_39,[35-39],All,167
+EU,Europe,MKD,North Macedonia,2020,All,Age40_44,[40-44],All,293
+EU,Europe,MKD,North Macedonia,2020,All,Age45_49,[45-49],All,475
+EU,Europe,MKD,North Macedonia,2020,All,Age50_54,[50-54],All,817
+EU,Europe,MKD,North Macedonia,2020,All,Age55_59,[55-59],All,1369
+EU,Europe,MKD,North Macedonia,2020,All,Age60_64,[60-64],All,2252
+EU,Europe,MKD,North Macedonia,2020,All,Age65_69,[65-69],All,3069
+EU,Europe,MKD,North Macedonia,2020,All,Age70_74,[70-74],All,3554
+EU,Europe,MKD,North Macedonia,2020,All,Age75_79,[75-79],All,4061
+EU,Europe,MKD,North Macedonia,2020,All,Age80_84,[80-84],All,4618
+EU,Europe,MKD,North Macedonia,2020,All,Age85_over,[85+],All,4674
+EU,Europe,MKD,North Macedonia,2020,All,Age_unknown,[Unknown],All,1
+EU,Europe,MKD,North Macedonia,2020,Male,Age00,[0],All,53
+EU,Europe,MKD,North Macedonia,2020,Male,Age01_04,[1-4],All,7
+EU,Europe,MKD,North Macedonia,2020,Male,Age05_09,[5-9],All,13
+EU,Europe,MKD,North Macedonia,2020,Male,Age10_14,[10-14],All,11
+EU,Europe,MKD,North Macedonia,2020,Male,Age15_19,[15-19],All,25
+EU,Europe,MKD,North Macedonia,2020,Male,Age20_24,[20-24],All,35
+EU,Europe,MKD,North Macedonia,2020,Male,Age25_29,[25-29],All,35
+EU,Europe,MKD,North Macedonia,2020,Male,Age30_34,[30-34],All,58
+EU,Europe,MKD,North Macedonia,2020,Male,Age35_39,[35-39],All,106
+EU,Europe,MKD,North Macedonia,2020,Male,Age40_44,[40-44],All,199
+EU,Europe,MKD,North Macedonia,2020,Male,Age45_49,[45-49],All,292
+EU,Europe,MKD,North Macedonia,2020,Male,Age50_54,[50-54],All,527
+EU,Europe,MKD,North Macedonia,2020,Male,Age55_59,[55-59],All,886
+EU,Europe,MKD,North Macedonia,2020,Male,Age60_64,[60-64],All,1490
+EU,Europe,MKD,North Macedonia,2020,Male,Age65_69,[65-69],All,1890
+EU,Europe,MKD,North Macedonia,2020,Male,Age70_74,[70-74],All,1994
+EU,Europe,MKD,North Macedonia,2020,Male,Age75_79,[75-79],All,2097
+EU,Europe,MKD,North Macedonia,2020,Male,Age80_84,[80-84],All,2165
+EU,Europe,MKD,North Macedonia,2020,Male,Age85_over,[85+],All,2031
+EU,Europe,MKD,North Macedonia,2020,Male,Age_unknown,[Unknown],All,0
+EU,Europe,MKD,North Macedonia,2020,Female,Age00,[0],All,55
+EU,Europe,MKD,North Macedonia,2020,Female,Age01_04,[1-4],All,10
+EU,Europe,MKD,North Macedonia,2020,Female,Age05_09,[5-9],All,5
+EU,Europe,MKD,North Macedonia,2020,Female,Age10_14,[10-14],All,9
+EU,Europe,MKD,North Macedonia,2020,Female,Age15_19,[15-19],All,13
+EU,Europe,MKD,North Macedonia,2020,Female,Age20_24,[20-24],All,19
+EU,Europe,MKD,North Macedonia,2020,Female,Age25_29,[25-29],All,14
+EU,Europe,MKD,North Macedonia,2020,Female,Age30_34,[30-34],All,43
+EU,Europe,MKD,North Macedonia,2020,Female,Age35_39,[35-39],All,61
+EU,Europe,MKD,North Macedonia,2020,Female,Age40_44,[40-44],All,94
+EU,Europe,MKD,North Macedonia,2020,Female,Age45_49,[45-49],All,183
+EU,Europe,MKD,North Macedonia,2020,Female,Age50_54,[50-54],All,290
+EU,Europe,MKD,North Macedonia,2020,Female,Age55_59,[55-59],All,483
+EU,Europe,MKD,North Macedonia,2020,Female,Age60_64,[60-64],All,762
+EU,Europe,MKD,North Macedonia,2020,Female,Age65_69,[65-69],All,1179
+EU,Europe,MKD,North Macedonia,2020,Female,Age70_74,[70-74],All,1560
+EU,Europe,MKD,North Macedonia,2020,Female,Age75_79,[75-79],All,1964
+EU,Europe,MKD,North Macedonia,2020,Female,Age80_84,[80-84],All,2453
+EU,Europe,MKD,North Macedonia,2020,Female,Age85_over,[85+],All,2643
+EU,Europe,MKD,North Macedonia,2020,Female,Age_unknown,[Unknown],All,1
+EU,Europe,MKD,North Macedonia,2019,All,Age00,[0],All,112
+EU,Europe,MKD,North Macedonia,2019,All,Age01_04,[1-4],All,26
+EU,Europe,MKD,North Macedonia,2019,All,Age05_09,[5-9],All,15
+EU,Europe,MKD,North Macedonia,2019,All,Age10_14,[10-14],All,18
+EU,Europe,MKD,North Macedonia,2019,All,Age15_19,[15-19],All,28
+EU,Europe,MKD,North Macedonia,2019,All,Age20_24,[20-24],All,44
+EU,Europe,MKD,North Macedonia,2019,All,Age25_29,[25-29],All,68
+EU,Europe,MKD,North Macedonia,2019,All,Age30_34,[30-34],All,81
+EU,Europe,MKD,North Macedonia,2019,All,Age35_39,[35-39],All,136
+EU,Europe,MKD,North Macedonia,2019,All,Age40_44,[40-44],All,191
+EU,Europe,MKD,North Macedonia,2019,All,Age45_49,[45-49],All,370
+EU,Europe,MKD,North Macedonia,2019,All,Age50_54,[50-54],All,614
+EU,Europe,MKD,North Macedonia,2019,All,Age55_59,[55-59],All,1076
+EU,Europe,MKD,North Macedonia,2019,All,Age60_64,[60-64],All,1673
+EU,Europe,MKD,North Macedonia,2019,All,Age65_69,[65-69],All,2229
+EU,Europe,MKD,North Macedonia,2019,All,Age70_74,[70-74],All,2581
+EU,Europe,MKD,North Macedonia,2019,All,Age75_79,[75-79],All,3327
+EU,Europe,MKD,North Macedonia,2019,All,Age80_84,[80-84],All,3798
+EU,Europe,MKD,North Macedonia,2019,All,Age85_over,[85+],All,4059
+EU,Europe,MKD,North Macedonia,2019,All,Age_unknown,[Unknown],All,0
+EU,Europe,MKD,North Macedonia,2019,Male,Age00,[0],All,65
+EU,Europe,MKD,North Macedonia,2019,Male,Age01_04,[1-4],All,19
+EU,Europe,MKD,North Macedonia,2019,Male,Age05_09,[5-9],All,3
+EU,Europe,MKD,North Macedonia,2019,Male,Age10_14,[10-14],All,10
+EU,Europe,MKD,North Macedonia,2019,Male,Age15_19,[15-19],All,16
+EU,Europe,MKD,North Macedonia,2019,Male,Age20_24,[20-24],All,33
+EU,Europe,MKD,North Macedonia,2019,Male,Age25_29,[25-29],All,47
+EU,Europe,MKD,North Macedonia,2019,Male,Age30_34,[30-34],All,57
+EU,Europe,MKD,North Macedonia,2019,Male,Age35_39,[35-39],All,91
+EU,Europe,MKD,North Macedonia,2019,Male,Age40_44,[40-44],All,113
+EU,Europe,MKD,North Macedonia,2019,Male,Age45_49,[45-49],All,249
+EU,Europe,MKD,North Macedonia,2019,Male,Age50_54,[50-54],All,416
+EU,Europe,MKD,North Macedonia,2019,Male,Age55_59,[55-59],All,688
+EU,Europe,MKD,North Macedonia,2019,Male,Age60_64,[60-64],All,1062
+EU,Europe,MKD,North Macedonia,2019,Male,Age65_69,[65-69],All,1331
+EU,Europe,MKD,North Macedonia,2019,Male,Age70_74,[70-74],All,1424
+EU,Europe,MKD,North Macedonia,2019,Male,Age75_79,[75-79],All,1622
+EU,Europe,MKD,North Macedonia,2019,Male,Age80_84,[80-84],All,1718
+EU,Europe,MKD,North Macedonia,2019,Male,Age85_over,[85+],All,1652
+EU,Europe,MKD,North Macedonia,2019,Male,Age_unknown,[Unknown],All,0
+EU,Europe,MKD,North Macedonia,2019,Female,Age00,[0],All,47
+EU,Europe,MKD,North Macedonia,2019,Female,Age01_04,[1-4],All,7
+EU,Europe,MKD,North Macedonia,2019,Female,Age05_09,[5-9],All,12
+EU,Europe,MKD,North Macedonia,2019,Female,Age10_14,[10-14],All,8
+EU,Europe,MKD,North Macedonia,2019,Female,Age15_19,[15-19],All,12
+EU,Europe,MKD,North Macedonia,2019,Female,Age20_24,[20-24],All,11
+EU,Europe,MKD,North Macedonia,2019,Female,Age25_29,[25-29],All,21
+EU,Europe,MKD,North Macedonia,2019,Female,Age30_34,[30-34],All,24
+EU,Europe,MKD,North Macedonia,2019,Female,Age35_39,[35-39],All,45
+EU,Europe,MKD,North Macedonia,2019,Female,Age40_44,[40-44],All,78
+EU,Europe,MKD,North Macedonia,2019,Female,Age45_49,[45-49],All,121
+EU,Europe,MKD,North Macedonia,2019,Female,Age50_54,[50-54],All,198
+EU,Europe,MKD,North Macedonia,2019,Female,Age55_59,[55-59],All,388
+EU,Europe,MKD,North Macedonia,2019,Female,Age60_64,[60-64],All,611
+EU,Europe,MKD,North Macedonia,2019,Female,Age65_69,[65-69],All,898
+EU,Europe,MKD,North Macedonia,2019,Female,Age70_74,[70-74],All,1157
+EU,Europe,MKD,North Macedonia,2019,Female,Age75_79,[75-79],All,1705
+EU,Europe,MKD,North Macedonia,2019,Female,Age80_84,[80-84],All,2080
+EU,Europe,MKD,North Macedonia,2019,Female,Age85_over,[85+],All,2407
+EU,Europe,MKD,North Macedonia,2019,Female,Age_unknown,[Unknown],All,0
+EU,Europe,MKD,North Macedonia,2018,All,Age00,[0],All,122
+EU,Europe,MKD,North Macedonia,2018,All,Age01_04,[1-4],All,14
+EU,Europe,MKD,North Macedonia,2018,All,Age05_09,[5-9],All,13
+EU,Europe,MKD,North Macedonia,2018,All,Age10_14,[10-14],All,22
+EU,Europe,MKD,North Macedonia,2018,All,Age15_19,[15-19],All,31
+EU,Europe,MKD,North Macedonia,2018,All,Age20_24,[20-24],All,39
+EU,Europe,MKD,North Macedonia,2018,All,Age25_29,[25-29],All,71
+EU,Europe,MKD,North Macedonia,2018,All,Age30_34,[30-34],All,95
+EU,Europe,MKD,North Macedonia,2018,All,Age35_39,[35-39],All,149
+EU,Europe,MKD,North Macedonia,2018,All,Age40_44,[40-44],All,223
+EU,Europe,MKD,North Macedonia,2018,All,Age45_49,[45-49],All,355
+EU,Europe,MKD,North Macedonia,2018,All,Age50_54,[50-54],All,645
+EU,Europe,MKD,North Macedonia,2018,All,Age55_59,[55-59],All,1097
+EU,Europe,MKD,North Macedonia,2018,All,Age60_64,[60-64],All,1619
+EU,Europe,MKD,North Macedonia,2018,All,Age65_69,[65-69],All,2205
+EU,Europe,MKD,North Macedonia,2018,All,Age70_74,[70-74],All,2405
+EU,Europe,MKD,North Macedonia,2018,All,Age75_79,[75-79],All,3193
+EU,Europe,MKD,North Macedonia,2018,All,Age80_84,[80-84],All,3684
+EU,Europe,MKD,North Macedonia,2018,All,Age85_over,[85+],All,3745
+EU,Europe,MKD,North Macedonia,2018,All,Age_unknown,[Unknown],All,0
+EU,Europe,MKD,North Macedonia,2018,Male,Age00,[0],All,71
+EU,Europe,MKD,North Macedonia,2018,Male,Age01_04,[1-4],All,11
+EU,Europe,MKD,North Macedonia,2018,Male,Age05_09,[5-9],All,6
+EU,Europe,MKD,North Macedonia,2018,Male,Age10_14,[10-14],All,15
+EU,Europe,MKD,North Macedonia,2018,Male,Age15_19,[15-19],All,22
+EU,Europe,MKD,North Macedonia,2018,Male,Age20_24,[20-24],All,32
+EU,Europe,MKD,North Macedonia,2018,Male,Age25_29,[25-29],All,52
+EU,Europe,MKD,North Macedonia,2018,Male,Age30_34,[30-34],All,62
+EU,Europe,MKD,North Macedonia,2018,Male,Age35_39,[35-39],All,100
+EU,Europe,MKD,North Macedonia,2018,Male,Age40_44,[40-44],All,144
+EU,Europe,MKD,North Macedonia,2018,Male,Age45_49,[45-49],All,224
+EU,Europe,MKD,North Macedonia,2018,Male,Age50_54,[50-54],All,432
+EU,Europe,MKD,North Macedonia,2018,Male,Age55_59,[55-59],All,710
+EU,Europe,MKD,North Macedonia,2018,Male,Age60_64,[60-64],All,1026
+EU,Europe,MKD,North Macedonia,2018,Male,Age65_69,[65-69],All,1331
+EU,Europe,MKD,North Macedonia,2018,Male,Age70_74,[70-74],All,1325
+EU,Europe,MKD,North Macedonia,2018,Male,Age75_79,[75-79],All,1582
+EU,Europe,MKD,North Macedonia,2018,Male,Age80_84,[80-84],All,1661
+EU,Europe,MKD,North Macedonia,2018,Male,Age85_over,[85+],All,1533
+EU,Europe,MKD,North Macedonia,2018,Male,Age_unknown,[Unknown],All,0
+EU,Europe,MKD,North Macedonia,2018,Female,Age00,[0],All,51
+EU,Europe,MKD,North Macedonia,2018,Female,Age01_04,[1-4],All,3
+EU,Europe,MKD,North Macedonia,2018,Female,Age05_09,[5-9],All,7
+EU,Europe,MKD,North Macedonia,2018,Female,Age10_14,[10-14],All,7
+EU,Europe,MKD,North Macedonia,2018,Female,Age15_19,[15-19],All,9
+EU,Europe,MKD,North Macedonia,2018,Female,Age20_24,[20-24],All,7
+EU,Europe,MKD,North Macedonia,2018,Female,Age25_29,[25-29],All,19
+EU,Europe,MKD,North Macedonia,2018,Female,Age30_34,[30-34],All,33
+EU,Europe,MKD,North Macedonia,2018,Female,Age35_39,[35-39],All,49
+EU,Europe,MKD,North Macedonia,2018,Female,Age40_44,[40-44],All,79
+EU,Europe,MKD,North Macedonia,2018,Female,Age45_49,[45-49],All,131
+EU,Europe,MKD,North Macedonia,2018,Female,Age50_54,[50-54],All,213
+EU,Europe,MKD,North Macedonia,2018,Female,Age55_59,[55-59],All,387
+EU,Europe,MKD,North Macedonia,2018,Female,Age60_64,[60-64],All,593
+EU,Europe,MKD,North Macedonia,2018,Female,Age65_69,[65-69],All,874
+EU,Europe,MKD,North Macedonia,2018,Female,Age70_74,[70-74],All,1080
+EU,Europe,MKD,North Macedonia,2018,Female,Age75_79,[75-79],All,1611
+EU,Europe,MKD,North Macedonia,2018,Female,Age80_84,[80-84],All,2023
+EU,Europe,MKD,North Macedonia,2018,Female,Age85_over,[85+],All,2212
+EU,Europe,MKD,North Macedonia,2018,Female,Age_unknown,[Unknown],All,0
+EU,Europe,MKD,North Macedonia,2021,All,Age00,[0],"Communicable, maternal, perinatal and nutritional conditions",48
+EU,Europe,MKD,North Macedonia,2021,All,Age01_04,[1-4],"Communicable, maternal, perinatal and nutritional conditions",4
+EU,Europe,MKD,North Macedonia,2021,All,Age05_09,[5-9],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2021,All,Age10_14,[10-14],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2021,All,Age15_19,[15-19],"Communicable, maternal, perinatal and nutritional conditions",10
+EU,Europe,MKD,North Macedonia,2021,All,Age20_24,[20-24],"Communicable, maternal, perinatal and nutritional conditions",16
+EU,Europe,MKD,North Macedonia,2021,All,Age25_29,[25-29],"Communicable, maternal, perinatal and nutritional conditions",17
+EU,Europe,MKD,North Macedonia,2021,All,Age30_34,[30-34],"Communicable, maternal, perinatal and nutritional conditions",45
+EU,Europe,MKD,North Macedonia,2021,All,Age35_39,[35-39],"Communicable, maternal, perinatal and nutritional conditions",79
+EU,Europe,MKD,North Macedonia,2021,All,Age40_44,[40-44],"Communicable, maternal, perinatal and nutritional conditions",99
+EU,Europe,MKD,North Macedonia,2021,All,Age45_49,[45-49],"Communicable, maternal, perinatal and nutritional conditions",160
+EU,Europe,MKD,North Macedonia,2021,All,Age50_54,[50-54],"Communicable, maternal, perinatal and nutritional conditions",262
+EU,Europe,MKD,North Macedonia,2021,All,Age55_59,[55-59],"Communicable, maternal, perinatal and nutritional conditions",417
+EU,Europe,MKD,North Macedonia,2021,All,Age60_64,[60-64],"Communicable, maternal, perinatal and nutritional conditions",679
+EU,Europe,MKD,North Macedonia,2021,All,Age65_69,[65-69],"Communicable, maternal, perinatal and nutritional conditions",1006
+EU,Europe,MKD,North Macedonia,2021,All,Age70_74,[70-74],"Communicable, maternal, perinatal and nutritional conditions",1183
+EU,Europe,MKD,North Macedonia,2021,All,Age75_79,[75-79],"Communicable, maternal, perinatal and nutritional conditions",1012
+EU,Europe,MKD,North Macedonia,2021,All,Age80_84,[80-84],"Communicable, maternal, perinatal and nutritional conditions",802
+EU,Europe,MKD,North Macedonia,2021,All,Age85_over,[85+],"Communicable, maternal, perinatal and nutritional conditions",563
+EU,Europe,MKD,North Macedonia,2021,Male,Age00,[0],"Communicable, maternal, perinatal and nutritional conditions",32
+EU,Europe,MKD,North Macedonia,2021,Male,Age01_04,[1-4],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2021,Male,Age05_09,[5-9],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2021,Male,Age10_14,[10-14],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2021,Male,Age15_19,[15-19],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2021,Male,Age20_24,[20-24],"Communicable, maternal, perinatal and nutritional conditions",11
+EU,Europe,MKD,North Macedonia,2021,Male,Age25_29,[25-29],"Communicable, maternal, perinatal and nutritional conditions",8
+EU,Europe,MKD,North Macedonia,2021,Male,Age30_34,[30-34],"Communicable, maternal, perinatal and nutritional conditions",24
+EU,Europe,MKD,North Macedonia,2021,Male,Age35_39,[35-39],"Communicable, maternal, perinatal and nutritional conditions",52
+EU,Europe,MKD,North Macedonia,2021,Male,Age40_44,[40-44],"Communicable, maternal, perinatal and nutritional conditions",60
+EU,Europe,MKD,North Macedonia,2021,Male,Age45_49,[45-49],"Communicable, maternal, perinatal and nutritional conditions",102
+EU,Europe,MKD,North Macedonia,2021,Male,Age50_54,[50-54],"Communicable, maternal, perinatal and nutritional conditions",158
+EU,Europe,MKD,North Macedonia,2021,Male,Age55_59,[55-59],"Communicable, maternal, perinatal and nutritional conditions",226
+EU,Europe,MKD,North Macedonia,2021,Male,Age60_64,[60-64],"Communicable, maternal, perinatal and nutritional conditions",388
+EU,Europe,MKD,North Macedonia,2021,Male,Age65_69,[65-69],"Communicable, maternal, perinatal and nutritional conditions",601
+EU,Europe,MKD,North Macedonia,2021,Male,Age70_74,[70-74],"Communicable, maternal, perinatal and nutritional conditions",670
+EU,Europe,MKD,North Macedonia,2021,Male,Age75_79,[75-79],"Communicable, maternal, perinatal and nutritional conditions",575
+EU,Europe,MKD,North Macedonia,2021,Male,Age80_84,[80-84],"Communicable, maternal, perinatal and nutritional conditions",439
+EU,Europe,MKD,North Macedonia,2021,Male,Age85_over,[85+],"Communicable, maternal, perinatal and nutritional conditions",320
+EU,Europe,MKD,North Macedonia,2021,Female,Age00,[0],"Communicable, maternal, perinatal and nutritional conditions",16
+EU,Europe,MKD,North Macedonia,2021,Female,Age01_04,[1-4],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2021,Female,Age05_09,[5-9],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2021,Female,Age10_14,[10-14],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2021,Female,Age15_19,[15-19],"Communicable, maternal, perinatal and nutritional conditions",8
+EU,Europe,MKD,North Macedonia,2021,Female,Age20_24,[20-24],"Communicable, maternal, perinatal and nutritional conditions",5
+EU,Europe,MKD,North Macedonia,2021,Female,Age25_29,[25-29],"Communicable, maternal, perinatal and nutritional conditions",9
+EU,Europe,MKD,North Macedonia,2021,Female,Age30_34,[30-34],"Communicable, maternal, perinatal and nutritional conditions",21
+EU,Europe,MKD,North Macedonia,2021,Female,Age35_39,[35-39],"Communicable, maternal, perinatal and nutritional conditions",27
+EU,Europe,MKD,North Macedonia,2021,Female,Age40_44,[40-44],"Communicable, maternal, perinatal and nutritional conditions",39
+EU,Europe,MKD,North Macedonia,2021,Female,Age45_49,[45-49],"Communicable, maternal, perinatal and nutritional conditions",58
+EU,Europe,MKD,North Macedonia,2021,Female,Age50_54,[50-54],"Communicable, maternal, perinatal and nutritional conditions",104
+EU,Europe,MKD,North Macedonia,2021,Female,Age55_59,[55-59],"Communicable, maternal, perinatal and nutritional conditions",191
+EU,Europe,MKD,North Macedonia,2021,Female,Age60_64,[60-64],"Communicable, maternal, perinatal and nutritional conditions",291
+EU,Europe,MKD,North Macedonia,2021,Female,Age65_69,[65-69],"Communicable, maternal, perinatal and nutritional conditions",405
+EU,Europe,MKD,North Macedonia,2021,Female,Age70_74,[70-74],"Communicable, maternal, perinatal and nutritional conditions",513
+EU,Europe,MKD,North Macedonia,2021,Female,Age75_79,[75-79],"Communicable, maternal, perinatal and nutritional conditions",437
+EU,Europe,MKD,North Macedonia,2021,Female,Age80_84,[80-84],"Communicable, maternal, perinatal and nutritional conditions",363
+EU,Europe,MKD,North Macedonia,2021,Female,Age85_over,[85+],"Communicable, maternal, perinatal and nutritional conditions",243
+EU,Europe,MKD,North Macedonia,2021,All,Age00,[0],Injuries,1
+EU,Europe,MKD,North Macedonia,2021,All,Age01_04,[1-4],Injuries,3
+EU,Europe,MKD,North Macedonia,2021,All,Age05_09,[5-9],Injuries,4
+EU,Europe,MKD,North Macedonia,2021,All,Age10_14,[10-14],Injuries,4
+EU,Europe,MKD,North Macedonia,2021,All,Age15_19,[15-19],Injuries,11
+EU,Europe,MKD,North Macedonia,2021,All,Age20_24,[20-24],Injuries,22
+EU,Europe,MKD,North Macedonia,2021,All,Age25_29,[25-29],Injuries,21
+EU,Europe,MKD,North Macedonia,2021,All,Age30_34,[30-34],Injuries,23
+EU,Europe,MKD,North Macedonia,2021,All,Age35_39,[35-39],Injuries,28
+EU,Europe,MKD,North Macedonia,2021,All,Age40_44,[40-44],Injuries,23
+EU,Europe,MKD,North Macedonia,2021,All,Age45_49,[45-49],Injuries,37
+EU,Europe,MKD,North Macedonia,2021,All,Age50_54,[50-54],Injuries,35
+EU,Europe,MKD,North Macedonia,2021,All,Age55_59,[55-59],Injuries,33
+EU,Europe,MKD,North Macedonia,2021,All,Age60_64,[60-64],Injuries,38
+EU,Europe,MKD,North Macedonia,2021,All,Age65_69,[65-69],Injuries,51
+EU,Europe,MKD,North Macedonia,2021,All,Age70_74,[70-74],Injuries,57
+EU,Europe,MKD,North Macedonia,2021,All,Age75_79,[75-79],Injuries,59
+EU,Europe,MKD,North Macedonia,2021,All,Age80_84,[80-84],Injuries,91
+EU,Europe,MKD,North Macedonia,2021,All,Age85_over,[85+],Injuries,120
+EU,Europe,MKD,North Macedonia,2021,Male,Age00,[0],Injuries,1
+EU,Europe,MKD,North Macedonia,2021,Male,Age01_04,[1-4],Injuries,1
+EU,Europe,MKD,North Macedonia,2021,Male,Age05_09,[5-9],Injuries,2
+EU,Europe,MKD,North Macedonia,2021,Male,Age10_14,[10-14],Injuries,3
+EU,Europe,MKD,North Macedonia,2021,Male,Age15_19,[15-19],Injuries,8
+EU,Europe,MKD,North Macedonia,2021,Male,Age20_24,[20-24],Injuries,18
+EU,Europe,MKD,North Macedonia,2021,Male,Age25_29,[25-29],Injuries,20
+EU,Europe,MKD,North Macedonia,2021,Male,Age30_34,[30-34],Injuries,18
+EU,Europe,MKD,North Macedonia,2021,Male,Age35_39,[35-39],Injuries,22
+EU,Europe,MKD,North Macedonia,2021,Male,Age40_44,[40-44],Injuries,20
+EU,Europe,MKD,North Macedonia,2021,Male,Age45_49,[45-49],Injuries,26
+EU,Europe,MKD,North Macedonia,2021,Male,Age50_54,[50-54],Injuries,23
+EU,Europe,MKD,North Macedonia,2021,Male,Age55_59,[55-59],Injuries,27
+EU,Europe,MKD,North Macedonia,2021,Male,Age60_64,[60-64],Injuries,26
+EU,Europe,MKD,North Macedonia,2021,Male,Age65_69,[65-69],Injuries,40
+EU,Europe,MKD,North Macedonia,2021,Male,Age70_74,[70-74],Injuries,37
+EU,Europe,MKD,North Macedonia,2021,Male,Age75_79,[75-79],Injuries,33
+EU,Europe,MKD,North Macedonia,2021,Male,Age80_84,[80-84],Injuries,42
+EU,Europe,MKD,North Macedonia,2021,Male,Age85_over,[85+],Injuries,40
+EU,Europe,MKD,North Macedonia,2021,Female,Age00,[0],Injuries,0
+EU,Europe,MKD,North Macedonia,2021,Female,Age01_04,[1-4],Injuries,2
+EU,Europe,MKD,North Macedonia,2021,Female,Age05_09,[5-9],Injuries,2
+EU,Europe,MKD,North Macedonia,2021,Female,Age10_14,[10-14],Injuries,1
+EU,Europe,MKD,North Macedonia,2021,Female,Age15_19,[15-19],Injuries,3
+EU,Europe,MKD,North Macedonia,2021,Female,Age20_24,[20-24],Injuries,4
+EU,Europe,MKD,North Macedonia,2021,Female,Age25_29,[25-29],Injuries,1
+EU,Europe,MKD,North Macedonia,2021,Female,Age30_34,[30-34],Injuries,5
+EU,Europe,MKD,North Macedonia,2021,Female,Age35_39,[35-39],Injuries,6
+EU,Europe,MKD,North Macedonia,2021,Female,Age40_44,[40-44],Injuries,3
+EU,Europe,MKD,North Macedonia,2021,Female,Age45_49,[45-49],Injuries,11
+EU,Europe,MKD,North Macedonia,2021,Female,Age50_54,[50-54],Injuries,12
+EU,Europe,MKD,North Macedonia,2021,Female,Age55_59,[55-59],Injuries,6
+EU,Europe,MKD,North Macedonia,2021,Female,Age60_64,[60-64],Injuries,12
+EU,Europe,MKD,North Macedonia,2021,Female,Age65_69,[65-69],Injuries,11
+EU,Europe,MKD,North Macedonia,2021,Female,Age70_74,[70-74],Injuries,20
+EU,Europe,MKD,North Macedonia,2021,Female,Age75_79,[75-79],Injuries,26
+EU,Europe,MKD,North Macedonia,2021,Female,Age80_84,[80-84],Injuries,49
+EU,Europe,MKD,North Macedonia,2021,Female,Age85_over,[85+],Injuries,80
+EU,Europe,MKD,North Macedonia,2021,All,Age00,[0],Noncommunicable diseases,26
+EU,Europe,MKD,North Macedonia,2021,All,Age01_04,[1-4],Noncommunicable diseases,6
+EU,Europe,MKD,North Macedonia,2021,All,Age05_09,[5-9],Noncommunicable diseases,5
+EU,Europe,MKD,North Macedonia,2021,All,Age10_14,[10-14],Noncommunicable diseases,3
+EU,Europe,MKD,North Macedonia,2021,All,Age15_19,[15-19],Noncommunicable diseases,8
+EU,Europe,MKD,North Macedonia,2021,All,Age20_24,[20-24],Noncommunicable diseases,19
+EU,Europe,MKD,North Macedonia,2021,All,Age25_29,[25-29],Noncommunicable diseases,30
+EU,Europe,MKD,North Macedonia,2021,All,Age30_34,[30-34],Noncommunicable diseases,48
+EU,Europe,MKD,North Macedonia,2021,All,Age35_39,[35-39],Noncommunicable diseases,87
+EU,Europe,MKD,North Macedonia,2021,All,Age40_44,[40-44],Noncommunicable diseases,155
+EU,Europe,MKD,North Macedonia,2021,All,Age45_49,[45-49],Noncommunicable diseases,277
+EU,Europe,MKD,North Macedonia,2021,All,Age50_54,[50-54],Noncommunicable diseases,520
+EU,Europe,MKD,North Macedonia,2021,All,Age55_59,[55-59],Noncommunicable diseases,939
+EU,Europe,MKD,North Macedonia,2021,All,Age60_64,[60-64],Noncommunicable diseases,1493
+EU,Europe,MKD,North Macedonia,2021,All,Age65_69,[65-69],Noncommunicable diseases,2183
+EU,Europe,MKD,North Macedonia,2021,All,Age70_74,[70-74],Noncommunicable diseases,2674
+EU,Europe,MKD,North Macedonia,2021,All,Age75_79,[75-79],Noncommunicable diseases,2918
+EU,Europe,MKD,North Macedonia,2021,All,Age80_84,[80-84],Noncommunicable diseases,3483
+EU,Europe,MKD,North Macedonia,2021,All,Age85_over,[85+],Noncommunicable diseases,3858
+EU,Europe,MKD,North Macedonia,2021,All,Age_unknown,[Unknown],Noncommunicable diseases,0
+EU,Europe,MKD,North Macedonia,2021,Male,Age00,[0],Noncommunicable diseases,15
+EU,Europe,MKD,North Macedonia,2021,Male,Age01_04,[1-4],Noncommunicable diseases,4
+EU,Europe,MKD,North Macedonia,2021,Male,Age05_09,[5-9],Noncommunicable diseases,3
+EU,Europe,MKD,North Macedonia,2021,Male,Age10_14,[10-14],Noncommunicable diseases,2
+EU,Europe,MKD,North Macedonia,2021,Male,Age15_19,[15-19],Noncommunicable diseases,6
+EU,Europe,MKD,North Macedonia,2021,Male,Age20_24,[20-24],Noncommunicable diseases,12
+EU,Europe,MKD,North Macedonia,2021,Male,Age25_29,[25-29],Noncommunicable diseases,13
+EU,Europe,MKD,North Macedonia,2021,Male,Age30_34,[30-34],Noncommunicable diseases,32
+EU,Europe,MKD,North Macedonia,2021,Male,Age35_39,[35-39],Noncommunicable diseases,51
+EU,Europe,MKD,North Macedonia,2021,Male,Age40_44,[40-44],Noncommunicable diseases,88
+EU,Europe,MKD,North Macedonia,2021,Male,Age45_49,[45-49],Noncommunicable diseases,155
+EU,Europe,MKD,North Macedonia,2021,Male,Age50_54,[50-54],Noncommunicable diseases,341
+EU,Europe,MKD,North Macedonia,2021,Male,Age55_59,[55-59],Noncommunicable diseases,602
+EU,Europe,MKD,North Macedonia,2021,Male,Age60_64,[60-64],Noncommunicable diseases,949
+EU,Europe,MKD,North Macedonia,2021,Male,Age65_69,[65-69],Noncommunicable diseases,1289
+EU,Europe,MKD,North Macedonia,2021,Male,Age70_74,[70-74],Noncommunicable diseases,1452
+EU,Europe,MKD,North Macedonia,2021,Male,Age75_79,[75-79],Noncommunicable diseases,1479
+EU,Europe,MKD,North Macedonia,2021,Male,Age80_84,[80-84],Noncommunicable diseases,1610
+EU,Europe,MKD,North Macedonia,2021,Male,Age85_over,[85+],Noncommunicable diseases,1533
+EU,Europe,MKD,North Macedonia,2021,Male,Age_unknown,[Unknown],Noncommunicable diseases,0
+EU,Europe,MKD,North Macedonia,2021,Female,Age00,[0],Noncommunicable diseases,11
+EU,Europe,MKD,North Macedonia,2021,Female,Age01_04,[1-4],Noncommunicable diseases,2
+EU,Europe,MKD,North Macedonia,2021,Female,Age05_09,[5-9],Noncommunicable diseases,2
+EU,Europe,MKD,North Macedonia,2021,Female,Age10_14,[10-14],Noncommunicable diseases,1
+EU,Europe,MKD,North Macedonia,2021,Female,Age15_19,[15-19],Noncommunicable diseases,2
+EU,Europe,MKD,North Macedonia,2021,Female,Age20_24,[20-24],Noncommunicable diseases,7
+EU,Europe,MKD,North Macedonia,2021,Female,Age25_29,[25-29],Noncommunicable diseases,17
+EU,Europe,MKD,North Macedonia,2021,Female,Age30_34,[30-34],Noncommunicable diseases,16
+EU,Europe,MKD,North Macedonia,2021,Female,Age35_39,[35-39],Noncommunicable diseases,36
+EU,Europe,MKD,North Macedonia,2021,Female,Age40_44,[40-44],Noncommunicable diseases,67
+EU,Europe,MKD,North Macedonia,2021,Female,Age45_49,[45-49],Noncommunicable diseases,122
+EU,Europe,MKD,North Macedonia,2021,Female,Age50_54,[50-54],Noncommunicable diseases,179
+EU,Europe,MKD,North Macedonia,2021,Female,Age55_59,[55-59],Noncommunicable diseases,337
+EU,Europe,MKD,North Macedonia,2021,Female,Age60_64,[60-64],Noncommunicable diseases,544
+EU,Europe,MKD,North Macedonia,2021,Female,Age65_69,[65-69],Noncommunicable diseases,894
+EU,Europe,MKD,North Macedonia,2021,Female,Age70_74,[70-74],Noncommunicable diseases,1222
+EU,Europe,MKD,North Macedonia,2021,Female,Age75_79,[75-79],Noncommunicable diseases,1439
+EU,Europe,MKD,North Macedonia,2021,Female,Age80_84,[80-84],Noncommunicable diseases,1873
+EU,Europe,MKD,North Macedonia,2021,Female,Age85_over,[85+],Noncommunicable diseases,2325
+EU,Europe,MKD,North Macedonia,2021,Female,Age_unknown,[Unknown],Noncommunicable diseases,0
+EU,Europe,MKD,North Macedonia,2020,All,Age00,[0],Injuries,0
+EU,Europe,MKD,North Macedonia,2020,All,Age01_04,[1-4],Injuries,3
+EU,Europe,MKD,North Macedonia,2020,All,Age05_09,[5-9],Injuries,3
+EU,Europe,MKD,North Macedonia,2020,All,Age10_14,[10-14],Injuries,4
+EU,Europe,MKD,North Macedonia,2020,All,Age15_19,[15-19],Injuries,18
+EU,Europe,MKD,North Macedonia,2020,All,Age20_24,[20-24],Injuries,15
+EU,Europe,MKD,North Macedonia,2020,All,Age25_29,[25-29],Injuries,17
+EU,Europe,MKD,North Macedonia,2020,All,Age30_34,[30-34],Injuries,17
+EU,Europe,MKD,North Macedonia,2020,All,Age35_39,[35-39],Injuries,19
+EU,Europe,MKD,North Macedonia,2020,All,Age40_44,[40-44],Injuries,19
+EU,Europe,MKD,North Macedonia,2020,All,Age45_49,[45-49],Injuries,15
+EU,Europe,MKD,North Macedonia,2020,All,Age50_54,[50-54],Injuries,34
+EU,Europe,MKD,North Macedonia,2020,All,Age55_59,[55-59],Injuries,36
+EU,Europe,MKD,North Macedonia,2020,All,Age60_64,[60-64],Injuries,51
+EU,Europe,MKD,North Macedonia,2020,All,Age65_69,[65-69],Injuries,41
+EU,Europe,MKD,North Macedonia,2020,All,Age70_74,[70-74],Injuries,29
+EU,Europe,MKD,North Macedonia,2020,All,Age75_79,[75-79],Injuries,30
+EU,Europe,MKD,North Macedonia,2020,All,Age80_84,[80-84],Injuries,31
+EU,Europe,MKD,North Macedonia,2020,All,Age85_over,[85+],Injuries,47
+EU,Europe,MKD,North Macedonia,2020,Male,Age00,[0],Injuries,0
+EU,Europe,MKD,North Macedonia,2020,Male,Age01_04,[1-4],Injuries,2
+EU,Europe,MKD,North Macedonia,2020,Male,Age05_09,[5-9],Injuries,2
+EU,Europe,MKD,North Macedonia,2020,Male,Age10_14,[10-14],Injuries,3
+EU,Europe,MKD,North Macedonia,2020,Male,Age15_19,[15-19],Injuries,13
+EU,Europe,MKD,North Macedonia,2020,Male,Age20_24,[20-24],Injuries,12
+EU,Europe,MKD,North Macedonia,2020,Male,Age25_29,[25-29],Injuries,14
+EU,Europe,MKD,North Macedonia,2020,Male,Age30_34,[30-34],Injuries,15
+EU,Europe,MKD,North Macedonia,2020,Male,Age35_39,[35-39],Injuries,15
+EU,Europe,MKD,North Macedonia,2020,Male,Age40_44,[40-44],Injuries,16
+EU,Europe,MKD,North Macedonia,2020,Male,Age45_49,[45-49],Injuries,8
+EU,Europe,MKD,North Macedonia,2020,Male,Age50_54,[50-54],Injuries,31
+EU,Europe,MKD,North Macedonia,2020,Male,Age55_59,[55-59],Injuries,29
+EU,Europe,MKD,North Macedonia,2020,Male,Age60_64,[60-64],Injuries,42
+EU,Europe,MKD,North Macedonia,2020,Male,Age65_69,[65-69],Injuries,30
+EU,Europe,MKD,North Macedonia,2020,Male,Age70_74,[70-74],Injuries,24
+EU,Europe,MKD,North Macedonia,2020,Male,Age75_79,[75-79],Injuries,21
+EU,Europe,MKD,North Macedonia,2020,Male,Age80_84,[80-84],Injuries,19
+EU,Europe,MKD,North Macedonia,2020,Male,Age85_over,[85+],Injuries,17
+EU,Europe,MKD,North Macedonia,2020,Female,Age00,[0],Injuries,0
+EU,Europe,MKD,North Macedonia,2020,Female,Age01_04,[1-4],Injuries,1
+EU,Europe,MKD,North Macedonia,2020,Female,Age05_09,[5-9],Injuries,1
+EU,Europe,MKD,North Macedonia,2020,Female,Age10_14,[10-14],Injuries,1
+EU,Europe,MKD,North Macedonia,2020,Female,Age15_19,[15-19],Injuries,5
+EU,Europe,MKD,North Macedonia,2020,Female,Age20_24,[20-24],Injuries,3
+EU,Europe,MKD,North Macedonia,2020,Female,Age25_29,[25-29],Injuries,3
+EU,Europe,MKD,North Macedonia,2020,Female,Age30_34,[30-34],Injuries,2
+EU,Europe,MKD,North Macedonia,2020,Female,Age35_39,[35-39],Injuries,4
+EU,Europe,MKD,North Macedonia,2020,Female,Age40_44,[40-44],Injuries,3
+EU,Europe,MKD,North Macedonia,2020,Female,Age45_49,[45-49],Injuries,7
+EU,Europe,MKD,North Macedonia,2020,Female,Age50_54,[50-54],Injuries,3
+EU,Europe,MKD,North Macedonia,2020,Female,Age55_59,[55-59],Injuries,7
+EU,Europe,MKD,North Macedonia,2020,Female,Age60_64,[60-64],Injuries,9
+EU,Europe,MKD,North Macedonia,2020,Female,Age65_69,[65-69],Injuries,11
+EU,Europe,MKD,North Macedonia,2020,Female,Age70_74,[70-74],Injuries,5
+EU,Europe,MKD,North Macedonia,2020,Female,Age75_79,[75-79],Injuries,9
+EU,Europe,MKD,North Macedonia,2020,Female,Age80_84,[80-84],Injuries,12
+EU,Europe,MKD,North Macedonia,2020,Female,Age85_over,[85+],Injuries,30
+EU,Europe,MKD,North Macedonia,2020,All,Age00,[0],Noncommunicable diseases,16
+EU,Europe,MKD,North Macedonia,2020,All,Age01_04,[1-4],Noncommunicable diseases,8
+EU,Europe,MKD,North Macedonia,2020,All,Age05_09,[5-9],Noncommunicable diseases,8
+EU,Europe,MKD,North Macedonia,2020,All,Age10_14,[10-14],Noncommunicable diseases,6
+EU,Europe,MKD,North Macedonia,2020,All,Age15_19,[15-19],Noncommunicable diseases,14
+EU,Europe,MKD,North Macedonia,2020,All,Age20_24,[20-24],Noncommunicable diseases,20
+EU,Europe,MKD,North Macedonia,2020,All,Age25_29,[25-29],Noncommunicable diseases,14
+EU,Europe,MKD,North Macedonia,2020,All,Age30_34,[30-34],Noncommunicable diseases,39
+EU,Europe,MKD,North Macedonia,2020,All,Age35_39,[35-39],Noncommunicable diseases,80
+EU,Europe,MKD,North Macedonia,2020,All,Age40_44,[40-44],Noncommunicable diseases,141
+EU,Europe,MKD,North Macedonia,2020,All,Age45_49,[45-49],Noncommunicable diseases,271
+EU,Europe,MKD,North Macedonia,2020,All,Age50_54,[50-54],Noncommunicable diseases,449
+EU,Europe,MKD,North Macedonia,2020,All,Age55_59,[55-59],Noncommunicable diseases,867
+EU,Europe,MKD,North Macedonia,2020,All,Age60_64,[60-64],Noncommunicable diseases,1403
+EU,Europe,MKD,North Macedonia,2020,All,Age65_69,[65-69],Noncommunicable diseases,2010
+EU,Europe,MKD,North Macedonia,2020,All,Age70_74,[70-74],Noncommunicable diseases,2457
+EU,Europe,MKD,North Macedonia,2020,All,Age75_79,[75-79],Noncommunicable diseases,2889
+EU,Europe,MKD,North Macedonia,2020,All,Age80_84,[80-84],Noncommunicable diseases,3319
+EU,Europe,MKD,North Macedonia,2020,All,Age85_over,[85+],Noncommunicable diseases,3384
+EU,Europe,MKD,North Macedonia,2020,Male,Age00,[0],Noncommunicable diseases,8
+EU,Europe,MKD,North Macedonia,2020,Male,Age01_04,[1-4],Noncommunicable diseases,1
+EU,Europe,MKD,North Macedonia,2020,Male,Age05_09,[5-9],Noncommunicable diseases,5
+EU,Europe,MKD,North Macedonia,2020,Male,Age10_14,[10-14],Noncommunicable diseases,3
+EU,Europe,MKD,North Macedonia,2020,Male,Age15_19,[15-19],Noncommunicable diseases,9
+EU,Europe,MKD,North Macedonia,2020,Male,Age20_24,[20-24],Noncommunicable diseases,12
+EU,Europe,MKD,North Macedonia,2020,Male,Age25_29,[25-29],Noncommunicable diseases,8
+EU,Europe,MKD,North Macedonia,2020,Male,Age30_34,[30-34],Noncommunicable diseases,20
+EU,Europe,MKD,North Macedonia,2020,Male,Age35_39,[35-39],Noncommunicable diseases,44
+EU,Europe,MKD,North Macedonia,2020,Male,Age40_44,[40-44],Noncommunicable diseases,85
+EU,Europe,MKD,North Macedonia,2020,Male,Age45_49,[45-49],Noncommunicable diseases,166
+EU,Europe,MKD,North Macedonia,2020,Male,Age50_54,[50-54],Noncommunicable diseases,266
+EU,Europe,MKD,North Macedonia,2020,Male,Age55_59,[55-59],Noncommunicable diseases,532
+EU,Europe,MKD,North Macedonia,2020,Male,Age60_64,[60-64],Noncommunicable diseases,915
+EU,Europe,MKD,North Macedonia,2020,Male,Age65_69,[65-69],Noncommunicable diseases,1206
+EU,Europe,MKD,North Macedonia,2020,Male,Age70_74,[70-74],Noncommunicable diseases,1344
+EU,Europe,MKD,North Macedonia,2020,Male,Age75_79,[75-79],Noncommunicable diseases,1469
+EU,Europe,MKD,North Macedonia,2020,Male,Age80_84,[80-84],Noncommunicable diseases,1501
+EU,Europe,MKD,North Macedonia,2020,Male,Age85_over,[85+],Noncommunicable diseases,1434
+EU,Europe,MKD,North Macedonia,2020,Female,Age00,[0],Noncommunicable diseases,8
+EU,Europe,MKD,North Macedonia,2020,Female,Age01_04,[1-4],Noncommunicable diseases,7
+EU,Europe,MKD,North Macedonia,2020,Female,Age05_09,[5-9],Noncommunicable diseases,3
+EU,Europe,MKD,North Macedonia,2020,Female,Age10_14,[10-14],Noncommunicable diseases,3
+EU,Europe,MKD,North Macedonia,2020,Female,Age15_19,[15-19],Noncommunicable diseases,5
+EU,Europe,MKD,North Macedonia,2020,Female,Age20_24,[20-24],Noncommunicable diseases,8
+EU,Europe,MKD,North Macedonia,2020,Female,Age25_29,[25-29],Noncommunicable diseases,6
+EU,Europe,MKD,North Macedonia,2020,Female,Age30_34,[30-34],Noncommunicable diseases,19
+EU,Europe,MKD,North Macedonia,2020,Female,Age35_39,[35-39],Noncommunicable diseases,36
+EU,Europe,MKD,North Macedonia,2020,Female,Age40_44,[40-44],Noncommunicable diseases,56
+EU,Europe,MKD,North Macedonia,2020,Female,Age45_49,[45-49],Noncommunicable diseases,105
+EU,Europe,MKD,North Macedonia,2020,Female,Age50_54,[50-54],Noncommunicable diseases,183
+EU,Europe,MKD,North Macedonia,2020,Female,Age55_59,[55-59],Noncommunicable diseases,335
+EU,Europe,MKD,North Macedonia,2020,Female,Age60_64,[60-64],Noncommunicable diseases,488
+EU,Europe,MKD,North Macedonia,2020,Female,Age65_69,[65-69],Noncommunicable diseases,804
+EU,Europe,MKD,North Macedonia,2020,Female,Age70_74,[70-74],Noncommunicable diseases,1113
+EU,Europe,MKD,North Macedonia,2020,Female,Age75_79,[75-79],Noncommunicable diseases,1420
+EU,Europe,MKD,North Macedonia,2020,Female,Age80_84,[80-84],Noncommunicable diseases,1818
+EU,Europe,MKD,North Macedonia,2020,Female,Age85_over,[85+],Noncommunicable diseases,1950
+EU,Europe,MKD,North Macedonia,2020,All,Age00,[0],"Communicable, maternal, perinatal and nutritional conditions",84
+EU,Europe,MKD,North Macedonia,2020,All,Age01_04,[1-4],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2020,All,Age05_09,[5-9],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2020,All,Age10_14,[10-14],"Communicable, maternal, perinatal and nutritional conditions",3
+EU,Europe,MKD,North Macedonia,2020,All,Age15_19,[15-19],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2020,All,Age20_24,[20-24],"Communicable, maternal, perinatal and nutritional conditions",9
+EU,Europe,MKD,North Macedonia,2020,All,Age25_29,[25-29],"Communicable, maternal, perinatal and nutritional conditions",10
+EU,Europe,MKD,North Macedonia,2020,All,Age30_34,[30-34],"Communicable, maternal, perinatal and nutritional conditions",16
+EU,Europe,MKD,North Macedonia,2020,All,Age35_39,[35-39],"Communicable, maternal, perinatal and nutritional conditions",31
+EU,Europe,MKD,North Macedonia,2020,All,Age40_44,[40-44],"Communicable, maternal, perinatal and nutritional conditions",69
+EU,Europe,MKD,North Macedonia,2020,All,Age45_49,[45-49],"Communicable, maternal, perinatal and nutritional conditions",94
+EU,Europe,MKD,North Macedonia,2020,All,Age50_54,[50-54],"Communicable, maternal, perinatal and nutritional conditions",194
+EU,Europe,MKD,North Macedonia,2020,All,Age55_59,[55-59],"Communicable, maternal, perinatal and nutritional conditions",255
+EU,Europe,MKD,North Macedonia,2020,All,Age60_64,[60-64],"Communicable, maternal, perinatal and nutritional conditions",444
+EU,Europe,MKD,North Macedonia,2020,All,Age65_69,[65-69],"Communicable, maternal, perinatal and nutritional conditions",552
+EU,Europe,MKD,North Macedonia,2020,All,Age70_74,[70-74],"Communicable, maternal, perinatal and nutritional conditions",571
+EU,Europe,MKD,North Macedonia,2020,All,Age75_79,[75-79],"Communicable, maternal, perinatal and nutritional conditions",501
+EU,Europe,MKD,North Macedonia,2020,All,Age80_84,[80-84],"Communicable, maternal, perinatal and nutritional conditions",383
+EU,Europe,MKD,North Macedonia,2020,All,Age85_over,[85+],"Communicable, maternal, perinatal and nutritional conditions",203
+EU,Europe,MKD,North Macedonia,2020,Male,Age00,[0],"Communicable, maternal, perinatal and nutritional conditions",42
+EU,Europe,MKD,North Macedonia,2020,Male,Age01_04,[1-4],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2020,Male,Age05_09,[5-9],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2020,Male,Age10_14,[10-14],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2020,Male,Age15_19,[15-19],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2020,Male,Age20_24,[20-24],"Communicable, maternal, perinatal and nutritional conditions",4
+EU,Europe,MKD,North Macedonia,2020,Male,Age25_29,[25-29],"Communicable, maternal, perinatal and nutritional conditions",8
+EU,Europe,MKD,North Macedonia,2020,Male,Age30_34,[30-34],"Communicable, maternal, perinatal and nutritional conditions",8
+EU,Europe,MKD,North Macedonia,2020,Male,Age35_39,[35-39],"Communicable, maternal, perinatal and nutritional conditions",23
+EU,Europe,MKD,North Macedonia,2020,Male,Age40_44,[40-44],"Communicable, maternal, perinatal and nutritional conditions",51
+EU,Europe,MKD,North Macedonia,2020,Male,Age45_49,[45-49],"Communicable, maternal, perinatal and nutritional conditions",57
+EU,Europe,MKD,North Macedonia,2020,Male,Age50_54,[50-54],"Communicable, maternal, perinatal and nutritional conditions",131
+EU,Europe,MKD,North Macedonia,2020,Male,Age55_59,[55-59],"Communicable, maternal, perinatal and nutritional conditions",175
+EU,Europe,MKD,North Macedonia,2020,Male,Age60_64,[60-64],"Communicable, maternal, perinatal and nutritional conditions",306
+EU,Europe,MKD,North Macedonia,2020,Male,Age65_69,[65-69],"Communicable, maternal, perinatal and nutritional conditions",350
+EU,Europe,MKD,North Macedonia,2020,Male,Age70_74,[70-74],"Communicable, maternal, perinatal and nutritional conditions",361
+EU,Europe,MKD,North Macedonia,2020,Male,Age75_79,[75-79],"Communicable, maternal, perinatal and nutritional conditions",301
+EU,Europe,MKD,North Macedonia,2020,Male,Age80_84,[80-84],"Communicable, maternal, perinatal and nutritional conditions",246
+EU,Europe,MKD,North Macedonia,2020,Male,Age85_over,[85+],"Communicable, maternal, perinatal and nutritional conditions",113
+EU,Europe,MKD,North Macedonia,2020,Female,Age00,[0],"Communicable, maternal, perinatal and nutritional conditions",42
+EU,Europe,MKD,North Macedonia,2020,Female,Age01_04,[1-4],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2020,Female,Age05_09,[5-9],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2020,Female,Age10_14,[10-14],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2020,Female,Age15_19,[15-19],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2020,Female,Age20_24,[20-24],"Communicable, maternal, perinatal and nutritional conditions",5
+EU,Europe,MKD,North Macedonia,2020,Female,Age25_29,[25-29],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2020,Female,Age30_34,[30-34],"Communicable, maternal, perinatal and nutritional conditions",8
+EU,Europe,MKD,North Macedonia,2020,Female,Age35_39,[35-39],"Communicable, maternal, perinatal and nutritional conditions",8
+EU,Europe,MKD,North Macedonia,2020,Female,Age40_44,[40-44],"Communicable, maternal, perinatal and nutritional conditions",18
+EU,Europe,MKD,North Macedonia,2020,Female,Age45_49,[45-49],"Communicable, maternal, perinatal and nutritional conditions",37
+EU,Europe,MKD,North Macedonia,2020,Female,Age50_54,[50-54],"Communicable, maternal, perinatal and nutritional conditions",63
+EU,Europe,MKD,North Macedonia,2020,Female,Age55_59,[55-59],"Communicable, maternal, perinatal and nutritional conditions",80
+EU,Europe,MKD,North Macedonia,2020,Female,Age60_64,[60-64],"Communicable, maternal, perinatal and nutritional conditions",138
+EU,Europe,MKD,North Macedonia,2020,Female,Age65_69,[65-69],"Communicable, maternal, perinatal and nutritional conditions",202
+EU,Europe,MKD,North Macedonia,2020,Female,Age70_74,[70-74],"Communicable, maternal, perinatal and nutritional conditions",210
+EU,Europe,MKD,North Macedonia,2020,Female,Age75_79,[75-79],"Communicable, maternal, perinatal and nutritional conditions",200
+EU,Europe,MKD,North Macedonia,2020,Female,Age80_84,[80-84],"Communicable, maternal, perinatal and nutritional conditions",137
+EU,Europe,MKD,North Macedonia,2020,Female,Age85_over,[85+],"Communicable, maternal, perinatal and nutritional conditions",90
+EU,Europe,MKD,North Macedonia,2019,All,Age00,[0],Injuries,0
+EU,Europe,MKD,North Macedonia,2019,All,Age01_04,[1-4],Injuries,3
+EU,Europe,MKD,North Macedonia,2019,All,Age05_09,[5-9],Injuries,1
+EU,Europe,MKD,North Macedonia,2019,All,Age10_14,[10-14],Injuries,5
+EU,Europe,MKD,North Macedonia,2019,All,Age15_19,[15-19],Injuries,9
+EU,Europe,MKD,North Macedonia,2019,All,Age20_24,[20-24],Injuries,20
+EU,Europe,MKD,North Macedonia,2019,All,Age25_29,[25-29],Injuries,20
+EU,Europe,MKD,North Macedonia,2019,All,Age30_34,[30-34],Injuries,20
+EU,Europe,MKD,North Macedonia,2019,All,Age35_39,[35-39],Injuries,26
+EU,Europe,MKD,North Macedonia,2019,All,Age40_44,[40-44],Injuries,21
+EU,Europe,MKD,North Macedonia,2019,All,Age45_49,[45-49],Injuries,36
+EU,Europe,MKD,North Macedonia,2019,All,Age50_54,[50-54],Injuries,29
+EU,Europe,MKD,North Macedonia,2019,All,Age55_59,[55-59],Injuries,43
+EU,Europe,MKD,North Macedonia,2019,All,Age60_64,[60-64],Injuries,36
+EU,Europe,MKD,North Macedonia,2019,All,Age65_69,[65-69],Injuries,26
+EU,Europe,MKD,North Macedonia,2019,All,Age70_74,[70-74],Injuries,26
+EU,Europe,MKD,North Macedonia,2019,All,Age75_79,[75-79],Injuries,40
+EU,Europe,MKD,North Macedonia,2019,All,Age80_84,[80-84],Injuries,40
+EU,Europe,MKD,North Macedonia,2019,All,Age85_over,[85+],Injuries,47
+EU,Europe,MKD,North Macedonia,2019,Male,Age00,[0],Injuries,0
+EU,Europe,MKD,North Macedonia,2019,Male,Age01_04,[1-4],Injuries,3
+EU,Europe,MKD,North Macedonia,2019,Male,Age05_09,[5-9],Injuries,1
+EU,Europe,MKD,North Macedonia,2019,Male,Age10_14,[10-14],Injuries,2
+EU,Europe,MKD,North Macedonia,2019,Male,Age15_19,[15-19],Injuries,5
+EU,Europe,MKD,North Macedonia,2019,Male,Age20_24,[20-24],Injuries,16
+EU,Europe,MKD,North Macedonia,2019,Male,Age25_29,[25-29],Injuries,18
+EU,Europe,MKD,North Macedonia,2019,Male,Age30_34,[30-34],Injuries,16
+EU,Europe,MKD,North Macedonia,2019,Male,Age35_39,[35-39],Injuries,22
+EU,Europe,MKD,North Macedonia,2019,Male,Age40_44,[40-44],Injuries,18
+EU,Europe,MKD,North Macedonia,2019,Male,Age45_49,[45-49],Injuries,32
+EU,Europe,MKD,North Macedonia,2019,Male,Age50_54,[50-54],Injuries,24
+EU,Europe,MKD,North Macedonia,2019,Male,Age55_59,[55-59],Injuries,39
+EU,Europe,MKD,North Macedonia,2019,Male,Age60_64,[60-64],Injuries,30
+EU,Europe,MKD,North Macedonia,2019,Male,Age65_69,[65-69],Injuries,22
+EU,Europe,MKD,North Macedonia,2019,Male,Age70_74,[70-74],Injuries,19
+EU,Europe,MKD,North Macedonia,2019,Male,Age75_79,[75-79],Injuries,23
+EU,Europe,MKD,North Macedonia,2019,Male,Age80_84,[80-84],Injuries,20
+EU,Europe,MKD,North Macedonia,2019,Male,Age85_over,[85+],Injuries,25
+EU,Europe,MKD,North Macedonia,2019,Female,Age00,[0],Injuries,0
+EU,Europe,MKD,North Macedonia,2019,Female,Age01_04,[1-4],Injuries,0
+EU,Europe,MKD,North Macedonia,2019,Female,Age05_09,[5-9],Injuries,0
+EU,Europe,MKD,North Macedonia,2019,Female,Age10_14,[10-14],Injuries,3
+EU,Europe,MKD,North Macedonia,2019,Female,Age15_19,[15-19],Injuries,4
+EU,Europe,MKD,North Macedonia,2019,Female,Age20_24,[20-24],Injuries,4
+EU,Europe,MKD,North Macedonia,2019,Female,Age25_29,[25-29],Injuries,2
+EU,Europe,MKD,North Macedonia,2019,Female,Age30_34,[30-34],Injuries,4
+EU,Europe,MKD,North Macedonia,2019,Female,Age35_39,[35-39],Injuries,4
+EU,Europe,MKD,North Macedonia,2019,Female,Age40_44,[40-44],Injuries,3
+EU,Europe,MKD,North Macedonia,2019,Female,Age45_49,[45-49],Injuries,4
+EU,Europe,MKD,North Macedonia,2019,Female,Age50_54,[50-54],Injuries,5
+EU,Europe,MKD,North Macedonia,2019,Female,Age55_59,[55-59],Injuries,4
+EU,Europe,MKD,North Macedonia,2019,Female,Age60_64,[60-64],Injuries,6
+EU,Europe,MKD,North Macedonia,2019,Female,Age65_69,[65-69],Injuries,4
+EU,Europe,MKD,North Macedonia,2019,Female,Age70_74,[70-74],Injuries,7
+EU,Europe,MKD,North Macedonia,2019,Female,Age75_79,[75-79],Injuries,17
+EU,Europe,MKD,North Macedonia,2019,Female,Age80_84,[80-84],Injuries,20
+EU,Europe,MKD,North Macedonia,2019,Female,Age85_over,[85+],Injuries,22
+EU,Europe,MKD,North Macedonia,2019,All,Age00,[0],Noncommunicable diseases,25
+EU,Europe,MKD,North Macedonia,2019,All,Age01_04,[1-4],Noncommunicable diseases,9
+EU,Europe,MKD,North Macedonia,2019,All,Age05_09,[5-9],Noncommunicable diseases,9
+EU,Europe,MKD,North Macedonia,2019,All,Age10_14,[10-14],Noncommunicable diseases,9
+EU,Europe,MKD,North Macedonia,2019,All,Age15_19,[15-19],Noncommunicable diseases,10
+EU,Europe,MKD,North Macedonia,2019,All,Age20_24,[20-24],Noncommunicable diseases,14
+EU,Europe,MKD,North Macedonia,2019,All,Age25_29,[25-29],Noncommunicable diseases,31
+EU,Europe,MKD,North Macedonia,2019,All,Age30_34,[30-34],Noncommunicable diseases,36
+EU,Europe,MKD,North Macedonia,2019,All,Age35_39,[35-39],Noncommunicable diseases,77
+EU,Europe,MKD,North Macedonia,2019,All,Age40_44,[40-44],Noncommunicable diseases,124
+EU,Europe,MKD,North Macedonia,2019,All,Age45_49,[45-49],Noncommunicable diseases,240
+EU,Europe,MKD,North Macedonia,2019,All,Age50_54,[50-54],Noncommunicable diseases,451
+EU,Europe,MKD,North Macedonia,2019,All,Age55_59,[55-59],Noncommunicable diseases,809
+EU,Europe,MKD,North Macedonia,2019,All,Age60_64,[60-64],Noncommunicable diseases,1310
+EU,Europe,MKD,North Macedonia,2019,All,Age65_69,[65-69],Noncommunicable diseases,1787
+EU,Europe,MKD,North Macedonia,2019,All,Age70_74,[70-74],Noncommunicable diseases,2127
+EU,Europe,MKD,North Macedonia,2019,All,Age75_79,[75-79],Noncommunicable diseases,2611
+EU,Europe,MKD,North Macedonia,2019,All,Age80_84,[80-84],Noncommunicable diseases,2931
+EU,Europe,MKD,North Macedonia,2019,All,Age85_over,[85+],Noncommunicable diseases,2936
+EU,Europe,MKD,North Macedonia,2019,Male,Age00,[0],Noncommunicable diseases,16
+EU,Europe,MKD,North Macedonia,2019,Male,Age01_04,[1-4],Noncommunicable diseases,7
+EU,Europe,MKD,North Macedonia,2019,Male,Age05_09,[5-9],Noncommunicable diseases,1
+EU,Europe,MKD,North Macedonia,2019,Male,Age10_14,[10-14],Noncommunicable diseases,6
+EU,Europe,MKD,North Macedonia,2019,Male,Age15_19,[15-19],Noncommunicable diseases,5
+EU,Europe,MKD,North Macedonia,2019,Male,Age20_24,[20-24],Noncommunicable diseases,10
+EU,Europe,MKD,North Macedonia,2019,Male,Age25_29,[25-29],Noncommunicable diseases,17
+EU,Europe,MKD,North Macedonia,2019,Male,Age30_34,[30-34],Noncommunicable diseases,25
+EU,Europe,MKD,North Macedonia,2019,Male,Age35_39,[35-39],Noncommunicable diseases,50
+EU,Europe,MKD,North Macedonia,2019,Male,Age40_44,[40-44],Noncommunicable diseases,61
+EU,Europe,MKD,North Macedonia,2019,Male,Age45_49,[45-49],Noncommunicable diseases,151
+EU,Europe,MKD,North Macedonia,2019,Male,Age50_54,[50-54],Noncommunicable diseases,292
+EU,Europe,MKD,North Macedonia,2019,Male,Age55_59,[55-59],Noncommunicable diseases,497
+EU,Europe,MKD,North Macedonia,2019,Male,Age60_64,[60-64],Noncommunicable diseases,814
+EU,Europe,MKD,North Macedonia,2019,Male,Age65_69,[65-69],Noncommunicable diseases,1059
+EU,Europe,MKD,North Macedonia,2019,Male,Age70_74,[70-74],Noncommunicable diseases,1151
+EU,Europe,MKD,North Macedonia,2019,Male,Age75_79,[75-79],Noncommunicable diseases,1282
+EU,Europe,MKD,North Macedonia,2019,Male,Age80_84,[80-84],Noncommunicable diseases,1335
+EU,Europe,MKD,North Macedonia,2019,Male,Age85_over,[85+],Noncommunicable diseases,1208
+EU,Europe,MKD,North Macedonia,2019,Female,Age00,[0],Noncommunicable diseases,9
+EU,Europe,MKD,North Macedonia,2019,Female,Age01_04,[1-4],Noncommunicable diseases,2
+EU,Europe,MKD,North Macedonia,2019,Female,Age05_09,[5-9],Noncommunicable diseases,8
+EU,Europe,MKD,North Macedonia,2019,Female,Age10_14,[10-14],Noncommunicable diseases,3
+EU,Europe,MKD,North Macedonia,2019,Female,Age15_19,[15-19],Noncommunicable diseases,5
+EU,Europe,MKD,North Macedonia,2019,Female,Age20_24,[20-24],Noncommunicable diseases,4
+EU,Europe,MKD,North Macedonia,2019,Female,Age25_29,[25-29],Noncommunicable diseases,14
+EU,Europe,MKD,North Macedonia,2019,Female,Age30_34,[30-34],Noncommunicable diseases,11
+EU,Europe,MKD,North Macedonia,2019,Female,Age35_39,[35-39],Noncommunicable diseases,27
+EU,Europe,MKD,North Macedonia,2019,Female,Age40_44,[40-44],Noncommunicable diseases,63
+EU,Europe,MKD,North Macedonia,2019,Female,Age45_49,[45-49],Noncommunicable diseases,89
+EU,Europe,MKD,North Macedonia,2019,Female,Age50_54,[50-54],Noncommunicable diseases,159
+EU,Europe,MKD,North Macedonia,2019,Female,Age55_59,[55-59],Noncommunicable diseases,312
+EU,Europe,MKD,North Macedonia,2019,Female,Age60_64,[60-64],Noncommunicable diseases,496
+EU,Europe,MKD,North Macedonia,2019,Female,Age65_69,[65-69],Noncommunicable diseases,728
+EU,Europe,MKD,North Macedonia,2019,Female,Age70_74,[70-74],Noncommunicable diseases,976
+EU,Europe,MKD,North Macedonia,2019,Female,Age75_79,[75-79],Noncommunicable diseases,1329
+EU,Europe,MKD,North Macedonia,2019,Female,Age80_84,[80-84],Noncommunicable diseases,1596
+EU,Europe,MKD,North Macedonia,2019,Female,Age85_over,[85+],Noncommunicable diseases,1728
+EU,Europe,MKD,North Macedonia,2019,All,Age00,[0],"Communicable, maternal, perinatal and nutritional conditions",74
+EU,Europe,MKD,North Macedonia,2019,All,Age01_04,[1-4],"Communicable, maternal, perinatal and nutritional conditions",5
+EU,Europe,MKD,North Macedonia,2019,All,Age05_09,[5-9],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2019,All,Age10_14,[10-14],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2019,All,Age15_19,[15-19],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2019,All,Age20_24,[20-24],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2019,All,Age25_29,[25-29],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2019,All,Age30_34,[30-34],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2019,All,Age35_39,[35-39],"Communicable, maternal, perinatal and nutritional conditions",5
+EU,Europe,MKD,North Macedonia,2019,All,Age40_44,[40-44],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2019,All,Age45_49,[45-49],"Communicable, maternal, perinatal and nutritional conditions",11
+EU,Europe,MKD,North Macedonia,2019,All,Age50_54,[50-54],"Communicable, maternal, perinatal and nutritional conditions",8
+EU,Europe,MKD,North Macedonia,2019,All,Age55_59,[55-59],"Communicable, maternal, perinatal and nutritional conditions",8
+EU,Europe,MKD,North Macedonia,2019,All,Age60_64,[60-64],"Communicable, maternal, perinatal and nutritional conditions",18
+EU,Europe,MKD,North Macedonia,2019,All,Age65_69,[65-69],"Communicable, maternal, perinatal and nutritional conditions",21
+EU,Europe,MKD,North Macedonia,2019,All,Age70_74,[70-74],"Communicable, maternal, perinatal and nutritional conditions",12
+EU,Europe,MKD,North Macedonia,2019,All,Age75_79,[75-79],"Communicable, maternal, perinatal and nutritional conditions",26
+EU,Europe,MKD,North Macedonia,2019,All,Age80_84,[80-84],"Communicable, maternal, perinatal and nutritional conditions",17
+EU,Europe,MKD,North Macedonia,2019,All,Age85_over,[85+],"Communicable, maternal, perinatal and nutritional conditions",21
+EU,Europe,MKD,North Macedonia,2019,Male,Age00,[0],"Communicable, maternal, perinatal and nutritional conditions",41
+EU,Europe,MKD,North Macedonia,2019,Male,Age01_04,[1-4],"Communicable, maternal, perinatal and nutritional conditions",4
+EU,Europe,MKD,North Macedonia,2019,Male,Age05_09,[5-9],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2019,Male,Age10_14,[10-14],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2019,Male,Age15_19,[15-19],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2019,Male,Age20_24,[20-24],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2019,Male,Age25_29,[25-29],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2019,Male,Age30_34,[30-34],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2019,Male,Age35_39,[35-39],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2019,Male,Age40_44,[40-44],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2019,Male,Age45_49,[45-49],"Communicable, maternal, perinatal and nutritional conditions",10
+EU,Europe,MKD,North Macedonia,2019,Male,Age50_54,[50-54],"Communicable, maternal, perinatal and nutritional conditions",7
+EU,Europe,MKD,North Macedonia,2019,Male,Age55_59,[55-59],"Communicable, maternal, perinatal and nutritional conditions",5
+EU,Europe,MKD,North Macedonia,2019,Male,Age60_64,[60-64],"Communicable, maternal, perinatal and nutritional conditions",10
+EU,Europe,MKD,North Macedonia,2019,Male,Age65_69,[65-69],"Communicable, maternal, perinatal and nutritional conditions",13
+EU,Europe,MKD,North Macedonia,2019,Male,Age70_74,[70-74],"Communicable, maternal, perinatal and nutritional conditions",10
+EU,Europe,MKD,North Macedonia,2019,Male,Age75_79,[75-79],"Communicable, maternal, perinatal and nutritional conditions",14
+EU,Europe,MKD,North Macedonia,2019,Male,Age80_84,[80-84],"Communicable, maternal, perinatal and nutritional conditions",9
+EU,Europe,MKD,North Macedonia,2019,Male,Age85_over,[85+],"Communicable, maternal, perinatal and nutritional conditions",13
+EU,Europe,MKD,North Macedonia,2019,Female,Age00,[0],"Communicable, maternal, perinatal and nutritional conditions",33
+EU,Europe,MKD,North Macedonia,2019,Female,Age01_04,[1-4],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2019,Female,Age05_09,[5-9],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2019,Female,Age10_14,[10-14],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2019,Female,Age15_19,[15-19],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2019,Female,Age20_24,[20-24],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2019,Female,Age25_29,[25-29],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2019,Female,Age30_34,[30-34],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2019,Female,Age35_39,[35-39],"Communicable, maternal, perinatal and nutritional conditions",3
+EU,Europe,MKD,North Macedonia,2019,Female,Age40_44,[40-44],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2019,Female,Age45_49,[45-49],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2019,Female,Age50_54,[50-54],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2019,Female,Age55_59,[55-59],"Communicable, maternal, perinatal and nutritional conditions",3
+EU,Europe,MKD,North Macedonia,2019,Female,Age60_64,[60-64],"Communicable, maternal, perinatal and nutritional conditions",8
+EU,Europe,MKD,North Macedonia,2019,Female,Age65_69,[65-69],"Communicable, maternal, perinatal and nutritional conditions",8
+EU,Europe,MKD,North Macedonia,2019,Female,Age70_74,[70-74],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2019,Female,Age75_79,[75-79],"Communicable, maternal, perinatal and nutritional conditions",12
+EU,Europe,MKD,North Macedonia,2019,Female,Age80_84,[80-84],"Communicable, maternal, perinatal and nutritional conditions",8
+EU,Europe,MKD,North Macedonia,2019,Female,Age85_over,[85+],"Communicable, maternal, perinatal and nutritional conditions",8
+EU,Europe,MKD,North Macedonia,2018,All,Age00,[0],"Communicable, maternal, perinatal and nutritional conditions",99
+EU,Europe,MKD,North Macedonia,2018,All,Age01_04,[1-4],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2018,All,Age05_09,[5-9],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2018,All,Age10_14,[10-14],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2018,All,Age15_19,[15-19],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2018,All,Age20_24,[20-24],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2018,All,Age25_29,[25-29],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2018,All,Age30_34,[30-34],"Communicable, maternal, perinatal and nutritional conditions",3
+EU,Europe,MKD,North Macedonia,2018,All,Age35_39,[35-39],"Communicable, maternal, perinatal and nutritional conditions",5
+EU,Europe,MKD,North Macedonia,2018,All,Age40_44,[40-44],"Communicable, maternal, perinatal and nutritional conditions",4
+EU,Europe,MKD,North Macedonia,2018,All,Age45_49,[45-49],"Communicable, maternal, perinatal and nutritional conditions",4
+EU,Europe,MKD,North Macedonia,2018,All,Age50_54,[50-54],"Communicable, maternal, perinatal and nutritional conditions",10
+EU,Europe,MKD,North Macedonia,2018,All,Age55_59,[55-59],"Communicable, maternal, perinatal and nutritional conditions",9
+EU,Europe,MKD,North Macedonia,2018,All,Age60_64,[60-64],"Communicable, maternal, perinatal and nutritional conditions",16
+EU,Europe,MKD,North Macedonia,2018,All,Age65_69,[65-69],"Communicable, maternal, perinatal and nutritional conditions",11
+EU,Europe,MKD,North Macedonia,2018,All,Age70_74,[70-74],"Communicable, maternal, perinatal and nutritional conditions",13
+EU,Europe,MKD,North Macedonia,2018,All,Age75_79,[75-79],"Communicable, maternal, perinatal and nutritional conditions",19
+EU,Europe,MKD,North Macedonia,2018,All,Age80_84,[80-84],"Communicable, maternal, perinatal and nutritional conditions",21
+EU,Europe,MKD,North Macedonia,2018,All,Age85_over,[85+],"Communicable, maternal, perinatal and nutritional conditions",14
+EU,Europe,MKD,North Macedonia,2018,Male,Age00,[0],"Communicable, maternal, perinatal and nutritional conditions",58
+EU,Europe,MKD,North Macedonia,2018,Male,Age01_04,[1-4],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2018,Male,Age05_09,[5-9],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2018,Male,Age10_14,[10-14],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2018,Male,Age15_19,[15-19],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2018,Male,Age20_24,[20-24],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2018,Male,Age25_29,[25-29],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2018,Male,Age30_34,[30-34],"Communicable, maternal, perinatal and nutritional conditions",3
+EU,Europe,MKD,North Macedonia,2018,Male,Age35_39,[35-39],"Communicable, maternal, perinatal and nutritional conditions",4
+EU,Europe,MKD,North Macedonia,2018,Male,Age40_44,[40-44],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2018,Male,Age45_49,[45-49],"Communicable, maternal, perinatal and nutritional conditions",4
+EU,Europe,MKD,North Macedonia,2018,Male,Age50_54,[50-54],"Communicable, maternal, perinatal and nutritional conditions",10
+EU,Europe,MKD,North Macedonia,2018,Male,Age55_59,[55-59],"Communicable, maternal, perinatal and nutritional conditions",5
+EU,Europe,MKD,North Macedonia,2018,Male,Age60_64,[60-64],"Communicable, maternal, perinatal and nutritional conditions",9
+EU,Europe,MKD,North Macedonia,2018,Male,Age65_69,[65-69],"Communicable, maternal, perinatal and nutritional conditions",10
+EU,Europe,MKD,North Macedonia,2018,Male,Age70_74,[70-74],"Communicable, maternal, perinatal and nutritional conditions",8
+EU,Europe,MKD,North Macedonia,2018,Male,Age75_79,[75-79],"Communicable, maternal, perinatal and nutritional conditions",9
+EU,Europe,MKD,North Macedonia,2018,Male,Age80_84,[80-84],"Communicable, maternal, perinatal and nutritional conditions",13
+EU,Europe,MKD,North Macedonia,2018,Male,Age85_over,[85+],"Communicable, maternal, perinatal and nutritional conditions",8
+EU,Europe,MKD,North Macedonia,2018,Female,Age00,[0],"Communicable, maternal, perinatal and nutritional conditions",41
+EU,Europe,MKD,North Macedonia,2018,Female,Age01_04,[1-4],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2018,Female,Age05_09,[5-9],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2018,Female,Age10_14,[10-14],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2018,Female,Age15_19,[15-19],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2018,Female,Age20_24,[20-24],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2018,Female,Age25_29,[25-29],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2018,Female,Age30_34,[30-34],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2018,Female,Age35_39,[35-39],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2018,Female,Age40_44,[40-44],"Communicable, maternal, perinatal and nutritional conditions",2
+EU,Europe,MKD,North Macedonia,2018,Female,Age45_49,[45-49],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2018,Female,Age50_54,[50-54],"Communicable, maternal, perinatal and nutritional conditions",0
+EU,Europe,MKD,North Macedonia,2018,Female,Age55_59,[55-59],"Communicable, maternal, perinatal and nutritional conditions",4
+EU,Europe,MKD,North Macedonia,2018,Female,Age60_64,[60-64],"Communicable, maternal, perinatal and nutritional conditions",7
+EU,Europe,MKD,North Macedonia,2018,Female,Age65_69,[65-69],"Communicable, maternal, perinatal and nutritional conditions",1
+EU,Europe,MKD,North Macedonia,2018,Female,Age70_74,[70-74],"Communicable, maternal, perinatal and nutritional conditions",5
+EU,Europe,MKD,North Macedonia,2018,Female,Age75_79,[75-79],"Communicable, maternal, perinatal and nutritional conditions",10
+EU,Europe,MKD,North Macedonia,2018,Female,Age80_84,[80-84],"Communicable, maternal, perinatal and nutritional conditions",8
+EU,Europe,MKD,North Macedonia,2018,Female,Age85_over,[85+],"Communicable, maternal, perinatal and nutritional conditions",6
+EU,Europe,MKD,North Macedonia,2018,All,Age00,[0],Noncommunicable diseases,16
+EU,Europe,MKD,North Macedonia,2018,All,Age01_04,[1-4],Noncommunicable diseases,8
+EU,Europe,MKD,North Macedonia,2018,All,Age05_09,[5-9],Noncommunicable diseases,6
+EU,Europe,MKD,North Macedonia,2018,All,Age10_14,[10-14],Noncommunicable diseases,11
+EU,Europe,MKD,North Macedonia,2018,All,Age15_19,[15-19],Noncommunicable diseases,18
+EU,Europe,MKD,North Macedonia,2018,All,Age20_24,[20-24],Noncommunicable diseases,12
+EU,Europe,MKD,North Macedonia,2018,All,Age25_29,[25-29],Noncommunicable diseases,41
+EU,Europe,MKD,North Macedonia,2018,All,Age30_34,[30-34],Noncommunicable diseases,58
+EU,Europe,MKD,North Macedonia,2018,All,Age35_39,[35-39],Noncommunicable diseases,89
+EU,Europe,MKD,North Macedonia,2018,All,Age40_44,[40-44],Noncommunicable diseases,162
+EU,Europe,MKD,North Macedonia,2018,All,Age45_49,[45-49],Noncommunicable diseases,290
+EU,Europe,MKD,North Macedonia,2018,All,Age50_54,[50-54],Noncommunicable diseases,524
+EU,Europe,MKD,North Macedonia,2018,All,Age55_59,[55-59],Noncommunicable diseases,953
+EU,Europe,MKD,North Macedonia,2018,All,Age60_64,[60-64],Noncommunicable diseases,1451
+EU,Europe,MKD,North Macedonia,2018,All,Age65_69,[65-69],Noncommunicable diseases,1971
+EU,Europe,MKD,North Macedonia,2018,All,Age70_74,[70-74],Noncommunicable diseases,2192
+EU,Europe,MKD,North Macedonia,2018,All,Age75_79,[75-79],Noncommunicable diseases,2865
+EU,Europe,MKD,North Macedonia,2018,All,Age80_84,[80-84],Noncommunicable diseases,3264
+EU,Europe,MKD,North Macedonia,2018,All,Age85_over,[85+],Noncommunicable diseases,3284
+EU,Europe,MKD,North Macedonia,2018,Male,Age00,[0],Noncommunicable diseases,11
+EU,Europe,MKD,North Macedonia,2018,Male,Age01_04,[1-4],Noncommunicable diseases,6
+EU,Europe,MKD,North Macedonia,2018,Male,Age05_09,[5-9],Noncommunicable diseases,2
+EU,Europe,MKD,North Macedonia,2018,Male,Age10_14,[10-14],Noncommunicable diseases,8
+EU,Europe,MKD,North Macedonia,2018,Male,Age15_19,[15-19],Noncommunicable diseases,13
+EU,Europe,MKD,North Macedonia,2018,Male,Age20_24,[20-24],Noncommunicable diseases,8
+EU,Europe,MKD,North Macedonia,2018,Male,Age25_29,[25-29],Noncommunicable diseases,28
+EU,Europe,MKD,North Macedonia,2018,Male,Age30_34,[30-34],Noncommunicable diseases,31
+EU,Europe,MKD,North Macedonia,2018,Male,Age35_39,[35-39],Noncommunicable diseases,54
+EU,Europe,MKD,North Macedonia,2018,Male,Age40_44,[40-44],Noncommunicable diseases,96
+EU,Europe,MKD,North Macedonia,2018,Male,Age45_49,[45-49],Noncommunicable diseases,173
+EU,Europe,MKD,North Macedonia,2018,Male,Age50_54,[50-54],Noncommunicable diseases,338
+EU,Europe,MKD,North Macedonia,2018,Male,Age55_59,[55-59],Noncommunicable diseases,599
+EU,Europe,MKD,North Macedonia,2018,Male,Age60_64,[60-64],Noncommunicable diseases,912
+EU,Europe,MKD,North Macedonia,2018,Male,Age65_69,[65-69],Noncommunicable diseases,1174
+EU,Europe,MKD,North Macedonia,2018,Male,Age70_74,[70-74],Noncommunicable diseases,1205
+EU,Europe,MKD,North Macedonia,2018,Male,Age75_79,[75-79],Noncommunicable diseases,1408
+EU,Europe,MKD,North Macedonia,2018,Male,Age80_84,[80-84],Noncommunicable diseases,1463
+EU,Europe,MKD,North Macedonia,2018,Male,Age85_over,[85+],Noncommunicable diseases,1336
+EU,Europe,MKD,North Macedonia,2018,Female,Age00,[0],Noncommunicable diseases,5
+EU,Europe,MKD,North Macedonia,2018,Female,Age01_04,[1-4],Noncommunicable diseases,2
+EU,Europe,MKD,North Macedonia,2018,Female,Age05_09,[5-9],Noncommunicable diseases,4
+EU,Europe,MKD,North Macedonia,2018,Female,Age10_14,[10-14],Noncommunicable diseases,3
+EU,Europe,MKD,North Macedonia,2018,Female,Age15_19,[15-19],Noncommunicable diseases,5
+EU,Europe,MKD,North Macedonia,2018,Female,Age20_24,[20-24],Noncommunicable diseases,4
+EU,Europe,MKD,North Macedonia,2018,Female,Age25_29,[25-29],Noncommunicable diseases,13
+EU,Europe,MKD,North Macedonia,2018,Female,Age30_34,[30-34],Noncommunicable diseases,27
+EU,Europe,MKD,North Macedonia,2018,Female,Age35_39,[35-39],Noncommunicable diseases,35
+EU,Europe,MKD,North Macedonia,2018,Female,Age40_44,[40-44],Noncommunicable diseases,66
+EU,Europe,MKD,North Macedonia,2018,Female,Age45_49,[45-49],Noncommunicable diseases,117
+EU,Europe,MKD,North Macedonia,2018,Female,Age50_54,[50-54],Noncommunicable diseases,186
+EU,Europe,MKD,North Macedonia,2018,Female,Age55_59,[55-59],Noncommunicable diseases,354
+EU,Europe,MKD,North Macedonia,2018,Female,Age60_64,[60-64],Noncommunicable diseases,539
+EU,Europe,MKD,North Macedonia,2018,Female,Age65_69,[65-69],Noncommunicable diseases,797
+EU,Europe,MKD,North Macedonia,2018,Female,Age70_74,[70-74],Noncommunicable diseases,987
+EU,Europe,MKD,North Macedonia,2018,Female,Age75_79,[75-79],Noncommunicable diseases,1457
+EU,Europe,MKD,North Macedonia,2018,Female,Age80_84,[80-84],Noncommunicable diseases,1801
+EU,Europe,MKD,North Macedonia,2018,Female,Age85_over,[85+],Noncommunicable diseases,1948
+EU,Europe,MKD,North Macedonia,2018,All,Age00,[0],Injuries,1
+EU,Europe,MKD,North Macedonia,2018,All,Age01_04,[1-4],Injuries,2
+EU,Europe,MKD,North Macedonia,2018,All,Age05_09,[5-9],Injuries,5
+EU,Europe,MKD,North Macedonia,2018,All,Age10_14,[10-14],Injuries,7
+EU,Europe,MKD,North Macedonia,2018,All,Age15_19,[15-19],Injuries,9
+EU,Europe,MKD,North Macedonia,2018,All,Age20_24,[20-24],Injuries,19
+EU,Europe,MKD,North Macedonia,2018,All,Age25_29,[25-29],Injuries,20
+EU,Europe,MKD,North Macedonia,2018,All,Age30_34,[30-34],Injuries,27
+EU,Europe,MKD,North Macedonia,2018,All,Age35_39,[35-39],Injuries,35
+EU,Europe,MKD,North Macedonia,2018,All,Age40_44,[40-44],Injuries,21
+EU,Europe,MKD,North Macedonia,2018,All,Age45_49,[45-49],Injuries,32
+EU,Europe,MKD,North Macedonia,2018,All,Age50_54,[50-54],Injuries,45
+EU,Europe,MKD,North Macedonia,2018,All,Age55_59,[55-59],Injuries,37
+EU,Europe,MKD,North Macedonia,2018,All,Age60_64,[60-64],Injuries,39
+EU,Europe,MKD,North Macedonia,2018,All,Age65_69,[65-69],Injuries,40
+EU,Europe,MKD,North Macedonia,2018,All,Age70_74,[70-74],Injuries,24
+EU,Europe,MKD,North Macedonia,2018,All,Age75_79,[75-79],Injuries,24
+EU,Europe,MKD,North Macedonia,2018,All,Age80_84,[80-84],Injuries,40
+EU,Europe,MKD,North Macedonia,2018,All,Age85_over,[85+],Injuries,41
+EU,Europe,MKD,North Macedonia,2018,Male,Age00,[0],Injuries,0
+EU,Europe,MKD,North Macedonia,2018,Male,Age01_04,[1-4],Injuries,1
+EU,Europe,MKD,North Macedonia,2018,Male,Age05_09,[5-9],Injuries,2
+EU,Europe,MKD,North Macedonia,2018,Male,Age10_14,[10-14],Injuries,6
+EU,Europe,MKD,North Macedonia,2018,Male,Age15_19,[15-19],Injuries,7
+EU,Europe,MKD,North Macedonia,2018,Male,Age20_24,[20-24],Injuries,17
+EU,Europe,MKD,North Macedonia,2018,Male,Age25_29,[25-29],Injuries,17
+EU,Europe,MKD,North Macedonia,2018,Male,Age30_34,[30-34],Injuries,23
+EU,Europe,MKD,North Macedonia,2018,Male,Age35_39,[35-39],Injuries,30
+EU,Europe,MKD,North Macedonia,2018,Male,Age40_44,[40-44],Injuries,17
+EU,Europe,MKD,North Macedonia,2018,Male,Age45_49,[45-49],Injuries,27
+EU,Europe,MKD,North Macedonia,2018,Male,Age50_54,[50-54],Injuries,40
+EU,Europe,MKD,North Macedonia,2018,Male,Age55_59,[55-59],Injuries,34
+EU,Europe,MKD,North Macedonia,2018,Male,Age60_64,[60-64],Injuries,29
+EU,Europe,MKD,North Macedonia,2018,Male,Age65_69,[65-69],Injuries,28
+EU,Europe,MKD,North Macedonia,2018,Male,Age70_74,[70-74],Injuries,18
+EU,Europe,MKD,North Macedonia,2018,Male,Age75_79,[75-79],Injuries,12
+EU,Europe,MKD,North Macedonia,2018,Male,Age80_84,[80-84],Injuries,26
+EU,Europe,MKD,North Macedonia,2018,Male,Age85_over,[85+],Injuries,21
+EU,Europe,MKD,North Macedonia,2018,Female,Age00,[0],Injuries,1
+EU,Europe,MKD,North Macedonia,2018,Female,Age01_04,[1-4],Injuries,1
+EU,Europe,MKD,North Macedonia,2018,Female,Age05_09,[5-9],Injuries,3
+EU,Europe,MKD,North Macedonia,2018,Female,Age10_14,[10-14],Injuries,1
+EU,Europe,MKD,North Macedonia,2018,Female,Age15_19,[15-19],Injuries,2
+EU,Europe,MKD,North Macedonia,2018,Female,Age20_24,[20-24],Injuries,2
+EU,Europe,MKD,North Macedonia,2018,Female,Age25_29,[25-29],Injuries,3
+EU,Europe,MKD,North Macedonia,2018,Female,Age30_34,[30-34],Injuries,4
+EU,Europe,MKD,North Macedonia,2018,Female,Age35_39,[35-39],Injuries,5
+EU,Europe,MKD,North Macedonia,2018,Female,Age40_44,[40-44],Injuries,4
+EU,Europe,MKD,North Macedonia,2018,Female,Age45_49,[45-49],Injuries,5
+EU,Europe,MKD,North Macedonia,2018,Female,Age50_54,[50-54],Injuries,5
+EU,Europe,MKD,North Macedonia,2018,Female,Age55_59,[55-59],Injuries,3
+EU,Europe,MKD,North Macedonia,2018,Female,Age60_64,[60-64],Injuries,10
+EU,Europe,MKD,North Macedonia,2018,Female,Age65_69,[65-69],Injuries,12
+EU,Europe,MKD,North Macedonia,2018,Female,Age70_74,[70-74],Injuries,6
+EU,Europe,MKD,North Macedonia,2018,Female,Age75_79,[75-79],Injuries,12
+EU,Europe,MKD,North Macedonia,2018,Female,Age80_84,[80-84],Injuries,14
+EU,Europe,MKD,North Macedonia,2018,Female,Age85_over,[85+],Injuries,20
